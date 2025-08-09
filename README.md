@@ -29,15 +29,15 @@ Experience the live version of my portfolio here: [Portfolio Live Demo](https://
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](./profilepics.jpg)
+![My Profile Pics](./profilepics.jpg)
 
 ## 💬 Contact Me
 
 Feel free to reach out for collaborations, feedback, or just to connect:
 
 - Email: [chizhinimec@gmail.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/chizhinime-chijioke)
-- Twitter: [@yourhandle](https://twitter.com/ChizhinimeC)
+- LinkedIn: [Chizhinime Chijioke](https://www.linkedin.com/in/chizhinime-chijioke)
+- Twitter: [@ChizhinimeC](https://twitter.com/ChizhinimeC)
 
 ## 🔧 Getting Started
 
@@ -45,3 +45,4 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/chizhinime/portfolio.git
+
