@@ -67,11 +67,12 @@
             font-size: 1.8rem;
             font-weight: 700;
             color: var(--accent);
+            text-decoration: none;
+            transition: color 0.3s ease;
         }
 
-        a .logo{
-                color: var(--text);
-                text-decoration: none;
+        .logo:hover{
+                color: var(--text-dark);      
         }
         
         .nav-links {
