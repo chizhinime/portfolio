@@ -69,7 +69,7 @@
             color: var(--accent);
         }
 
-        .logo a{
+        a .logo{
                 color: var(--text-dark);
                 text-decoration: none;
         }
