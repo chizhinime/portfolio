@@ -70,7 +70,7 @@
         }
 
         .logo a{
-                color: var(--text);
+                color: var(--text-dark);
                 text-decoration: none;
         }
         
