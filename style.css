@@ -71,7 +71,7 @@
         }
 
         .logo:hover{
-                color: var(--text-dark);
+                color: var(--text);
                 cursor: pointer;
         }
 
